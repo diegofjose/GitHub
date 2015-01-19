@@ -1,0 +1,6 @@
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\bin\WebServiceSOAP.dll.config
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\bin\WebServiceSOAP.dll
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\bin\WebServiceSOAP.pdb
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\obj\Release\WebServiceSOAP.csprojResolveAssemblyReference.cache
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\obj\Release\WebServiceSOAP.dll
+D:\Pessoal\MKM Service\MKM Services\Projeto 1 - Webservice SOAP\WebServiceSOAP\WebServiceSOAP\obj\Release\WebServiceSOAP.pdb
